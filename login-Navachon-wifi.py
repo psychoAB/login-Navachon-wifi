@@ -38,6 +38,7 @@ def main():
         except Exception as e:
             errorMessage = str(e)
             print(errorMessage)
+    return
 
 if __name__ == '__main__':
     main()
