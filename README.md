@@ -7,7 +7,7 @@
 pip install -r requirements.txt
 ```
 or
-- [requests](https://pypi.org/project/requests/)
+- [Requests](https://pypi.org/project/requests/) - __Requests__ is the only Non-GMO HTTP library for Python, safe for human consumption.
   ```bash
   pip install requests
   ```
