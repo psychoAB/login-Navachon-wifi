@@ -17,5 +17,5 @@ or
 ./login-Navachon-wifi.py
 ```
 1. input username and password
-2. login success on program print "success"
-3. program will print "failed" each time it log out the same username in system
+2. login success on program print __success__
+3. program will print __failed__ each time it log out the same username in system
